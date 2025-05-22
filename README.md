@@ -4,10 +4,12 @@
   Here you will find an organized collection of all the certifications, achievements and medals I have obtained throughout my academic and professional career. This space was created with the aim of sharing my achievements, demonstrating my ongoing commitment to learning and developing new skills.
 
   **About this repository**
-    - 📜 Certifications: List of completed courses, training and specializations, with links for validation and details of each certificate.
-    - 🏆 Medals: Display of medals and badges won on teaching platforms, competitions and relevant events.
-    - 📈 Updates: The repository will be updated periodically with new achievements and certifications.
+  - 📜 Certifications: List of completed courses, training and specializations, with links for validation and details of each certificate.
     
+  - 🏆 Medals: Display of medals and badges won on teaching platforms, competitions and relevant events.
+    
+  - 📈 Updates: The repository will be updated periodically with new achievements and certifications.
+  
 **Objective**
   -  This repository serves as a digital portfolio, making it easier for recruiters, colleagues and others interested in my professional development to view my main achievements.
   
